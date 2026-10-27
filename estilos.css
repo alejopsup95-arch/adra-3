@@ -1,0 +1,25 @@
+h1 {
+    color: #552424;
+    font-size: 36px;
+    line-height: 1.5;
+    font-family: "Fancy" , cursive;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(238, 117, 117, 0.5);
+  
+}
+
+
+h3 {
+    color: #552424;
+    font-size: 24px;
+    line-height: 1.5;
+    font-family: "Fancy" , cursive;
+    line-height: 2;
+    text-shadow: 2px 2px 4px rgba(146, 48, 48, 0.5);
+    span {
+        color: #f0a0a0;
+        font-size: 24px;
+        line-height: 5;
+        font-family: "Fancy" , cursive;
+    }
+}
